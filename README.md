@@ -1,1 +1,1 @@
-# devsync-daily-commit
+[![Daily Auto Commit](https://github.com/23f1000576-collab/devsync-daily-commit/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/23f1000576-collab/devsync-daily-commit/actions/workflows/daily-commit.yml)
